@@ -1,7 +1,4 @@
-{   "myName": {
-        "first": "Emmanuel",
-        "last":"Bariyiga"
-    },
+{   "myName": "Emmanuel Bariyiga",
     "workHistory": [
         {
             "companyName": "Orasi SOftware",
