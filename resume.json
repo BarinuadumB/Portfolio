@@ -1,0 +1,50 @@
+{   "myName": {
+        "first": "Emmanuel",
+        "last":"Bariyiga"
+    },
+    "workHistory": [
+        {
+            "companyName": "Orasi SOftware",
+            "projects": {
+                "firstProject":"Novartis EHR Web Application",
+                "secondProject":"Bayer EHR Web Application"
+            },
+            "jobTitle":"Quality Assurance Tester",
+            "startDate":"January 2012",
+            "endDate":"February 2016"
+        },
+        {
+            "companyName":"Ernst & Young",
+            "projects":"Financial Accounting and Advisory Services(FAAS) Web Application",
+            "jobTitle":{
+                "firstTitle":"Quality Assurance Analyst",
+                "secondTitle":"Lead Quality Assurance Analyst"
+            },
+            "startDate":"August 2016",
+            "endDate":"October 2017"
+        },
+        {
+            "companyName": "Purchasing Power",
+            "projects":{
+                "firstProject": "Fraud Security (Onetime Passcode, Password Reset, Mobile Device Registration)",
+                "secondProject":"SAP Hybrid version 5.7 upgrade to SAP BackOffice",
+                "thirdProject":"HotelBlox (Hotel & Travel Site) implementation",
+                "fourthProject": "Unbxd(search functionality upgrade) implementation"
+            },
+            "jobTitle":"Lead Quality Assurance Engineer",
+            "startDate":"October 2017",
+            "endDate":"June 2019"
+        },
+        {
+            "companyName":"Verizon",
+            "projects":{
+                "firstProject": "Omni Retail Point Of Sales",
+                "secondProject":"Omni B2B Point Of Sales",
+                "thirdProject":"Omni Care Point Of Sales"
+            },
+            "jobTitle":"Senior Quality Assurance Engineer",
+            "startDate":"June 2019",
+            "endDate":"February 2020"
+        }
+    ]
+}
